@@ -1,0 +1,19 @@
+*{
+    width: auto;
+    box-sizing: border-box;
+    margin:0 0;
+    padding: 0;
+}
+
+.banner {
+    width: 747;
+    height: 1444px;
+    display: flex
+}
+.menuprincipal {
+    background-color: #CB62CD;
+    width: auto;
+    height: 61px;
+    display:flex;
+    justify-content: space-around;
+}
